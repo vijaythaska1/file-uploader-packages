@@ -1,0 +1,42 @@
+{
+  "name": "file-uploader",
+  "version": "1.1.8",
+  "description": "A Node.js package for handling file uploads with support for various file types",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "multipart",
+    "express"
+  ],
+  "author": "Vijay Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "uuid": "^8.3.2"
+  },
+  "peerDependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vijaythaska1/file-upload-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vijaythaska1/file-upload/issues"
+  },
+  "homepage": "https://github.com/vijaythaska1/file-upload#readme"
+}
