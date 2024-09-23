@@ -1,5 +1,5 @@
 {
-  "name": "file-uploader",
+  "name": "file-uploader-express",
   "version": "1.1.10",
   "description": "A Node.js package for handling file uploads with support for various file types",
   "main": "index.js",
@@ -36,7 +36,7 @@
     "url": "https://github.com/vijaythaska1/file-uploader-packages.git"
   },
   "bugs": {
-    "url": "https://github.com/vijaythaska1/file-upload/issues"
+    "url": "https://github.com/vijaythaska1/file-uploader-packages/issues"
   },
-  "homepage": "https://github.com/vijaythaska1/file-upload#readme"
+  "homepage": "https://github.com/vijaythaska1/file-uploader-packages#readme"
 }

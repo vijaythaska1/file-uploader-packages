@@ -29,7 +29,7 @@ A robust Node.js package for handling file uploads with support for various file
 ## Installation
 
 ```bash
-npm install file-uploader
+npm install file-uploader-express
 ```
 
 ## Requirements
@@ -77,7 +77,7 @@ fetch('/upload', {
 ```javascript
 const express = require('express');
 const fileUpload = require('express-fileupload');
-const { uploadFile } = require('file-uploader');
+const { uploadFile } = require('file-uploader-express');
 
 const app = express();
 
@@ -102,7 +102,7 @@ app.listen(3000, () => {
 ```javascript
 import express from 'express';
 import fileUpload from 'express-fileupload';
-import { uploadFile } from 'file-uploader';
+import { uploadFile } from 'file-uploader-express';
 
 const app = express();
 
@@ -211,7 +211,7 @@ This project is licensed under the ISC License.
 Vijay Sharma
 
 - GitHub: [@vijaythaska1](https://github.com/vijaythaska1)
-- npm: [file-uploader](https://www.npmjs.com/package/file-upload-api)
+- npm: [file-uploader-express](https://github.com/vijaythaska1/file-uploader-packages.git)
 
 ---
 
