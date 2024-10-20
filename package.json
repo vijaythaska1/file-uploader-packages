@@ -1,5 +1,5 @@
 {
-  "name": "file-uploader-express",
+  "name": "college-admin-panel",
   "version": "1.1.11",
   "description": "A Node.js package for handling file uploads with support for various file types",
   "main": "index.js",
@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vijaythaska1/file-uploader-packages.git"
+    "url": "https://github.com/vijaythaska1/College-Admin-panel.git"
   },
   "bugs": {
-    "url": "https://github.com/vijaythaska1/file-uploader-packages/issues"
+    "url": "https://github.com/vijaythaska1/College-Admin-panel.git"
   },
-  "homepage": "https://github.com/vijaythaska1/file-uploader-packages#readme"
+  "homepage": "https://github.com/vijaythaska1/College-Admin-panel.git"
 }
